@@ -2,7 +2,7 @@ This is the GitHub repository for the R/Medicine 2020 pre-conference workshop R/
 
 Launch the binder cloud instance here:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chendaniely/intro-to-r-for-clinicians-rmed2020/master)
+rstudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chendaniely/intro-to-r-for-clinicians-rmed2020/master?urlpath=rstudio)
 
 ## About the instructors
 
