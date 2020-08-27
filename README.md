@@ -1,5 +1,9 @@
 This is the GitHub repository for the R/Medicine 2020 pre-conference workshop R/Med 101: Intro to R for Clinicians. There is a course website here: <https://skadauke.github.io/rmed2020-101-site/>
 
+Launch the binder cloud instance here:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chendaniely/intro-to-r-for-clinicians-rmed2020/master)
+
 ## About the instructors
 
 Stephan Kadauke, MD, PhD is an Assistant Professor of Pathology and Lab Medicine at the Children’s Hospital of Philadelphia where he is the Assistant Director of the Cell and Gene Therapy Lab. He leads the Cell and Gene Therapy DataOps group which builds and deploys predictive models and other data products for the care of children who receive bone marrow transplants and other cell therapies. 
